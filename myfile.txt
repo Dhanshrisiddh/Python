@@ -1,0 +1,6 @@
+f = open('myfile.txt', 'w')
+f.write("Hello! This is my first file.\n")
+f.write("File handling in Python is simple!\n")
+f.close()
+
+hii dhanshree
